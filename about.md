@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Arun Vasudevan and I work at [Nutanix](https://www.nutanix.com).
+This site is to capture my learnings and interesting stuff that I want to refer
+back from time to time. I have been inspired by [the morning
+paper](https://blog.acolyer.org) to start on this journey. (Let's see how long
+it goes :stuck_out_tongue_winking_eye:).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+PS: [Cheat sheet for jemojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
