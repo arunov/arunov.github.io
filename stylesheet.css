@@ -11,7 +11,7 @@
 
 a {
   text-decoration:none;
-  color:#000050;
+  color:#0000b0;
 }
 
 a:hover {
@@ -34,7 +34,7 @@ a:hover {
 .name-title {
   font-weight:normal;
   margin-bottom:0px;
-  color:white;
+  color:black;
 }
 
 .name-title-link:hover {
@@ -50,7 +50,7 @@ a:hover {
 .designation {
   font-weight:normal;
   margin-top:0px;
-  color: white;
+  color: black;
   /*display:none;*/
 }
 
@@ -65,9 +65,10 @@ a:hover {
 }
 
 .content {
-  margin-left:20px;
-  border-right:solid 2px #000015;
-  border-bottom:solid 1px #000015;
+  margin-left:0px;
+  /*border-right:solid 2px #000000;*/
+  border-bottom:solid 1px #000000;
+  border-top:solid 1px #000000;
   border-radius:20px;
   padding:10px;
 }
@@ -78,11 +79,12 @@ a:hover {
 }
 
 .title-div {
-  background-color:#000015;
+  background-color:#eeeeee;
+  border-color:black;
+  border-style:solid;
   /*background-color: black;*/
   border-radius:20px;
   margin-bottom:10px;
   padding:20px;
   height: 200px;
 }
-
