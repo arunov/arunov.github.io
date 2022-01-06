@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: home-page-o4y2.onrender.com
+Token: 824046d439638106b5987a448dfb28a648087b397d59bac2b53fa7672b9371f1
