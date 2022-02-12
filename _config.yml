@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Arun Olappamanna Vasudevan
 description: Senior Member of Technical Staff, Nutanix
+show_downloads: false
 github:
   is_project_page: false
