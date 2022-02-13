@@ -1,7 +1,28 @@
-theme: jekyll-theme-cayman
 title: Arun Olappamanna Vasudevan
 description: Senior Member of Technical Staff, Nutanix
+
+# Build settings
+theme: jekyll-theme-cayman
 show_downloads: false
 github:
   is_project_page: false
   add_github_pages_footer: false
+plugins:
+  - jekyll-feed
+  - jekyll-spaceship
+  - jekyll/scholar
+
+# Settings for plugins
+jekyll-spaceship:
+  mermaid-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: 'mermaid'
+    config:
+      theme: default
+    src: https://mermaid.ink/svg/
+
+scholar:
+  bibliography_template: bib
