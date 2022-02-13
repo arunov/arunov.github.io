@@ -58,7 +58,7 @@
 - Chen, M., Hildebrand, D., Kuenning, G., Shankaranarayana, S., Tarasov, V., Vasudevan, A. O., Zadok, E., & Zakirova, K. (2014). Linux NFSv4. 1 Performance Under a Microscope. _LISA,_ 137–138.
   [\[pdf\]](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf)
 
-# Open Source Contributions
+# Open Source Contributions <a href="https://archiveprogram.github.com/arctic-vault/"><img src="/images/badge--acv-64.png" height="50" width="auto" alt="GH arctic badge" title="GitHub Arctic Code Vault Contributor, 2020"></a>
 - [envoy](https://www.envoyproxy.io/): [Support for x-forwarded-host header](https://github.com/envoyproxy/envoy/pull/18639), _Nov 2021_
 - [libjwt](http://benmcollins.github.io/libjwt/): [Fix test build error when 'libcheck' version < 0.9.10](https://github.com/benmcollins/libjwt/pull/135), _Aug 2020_
 - [cpplint](https://google.github.io/styleguide/): [Fix typo in README](https://github.com/cpplint/cpplint/pull/109), _Oct 2019_
