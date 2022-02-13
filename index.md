@@ -1,35 +1,62 @@
-You can use the [editor on GitHub](https://github.com/arunov/profile.arunov.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/arunov/) | [GitHub](https://www.github.com/arunov/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Work Experience
+## Senior Member of Technical Staff
+[Nutanix](https://www.nutanix.com/), Seattle, WA: _Jul 2015 to Present_
 
-### Markdown
+- API Gateway, Load Balancer, and Scalability
+- Xi Cloud - Disaster Recovery as a Service, Runbooks, Application-level NAT. [Patent Granted](https://patents.google.com/patent/US11171913B2/en).
+- Synchronous Replication DR, Witness based automatic failover. [Patent Granted](https://patents.google.com/patent/US11218418B2/en).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Assistant
+[File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), Stony Brook University, NY: _Sep 2013 to May 2015_
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Intern
+[Nimble Storage](https://www.hpe.com/us/en/storage/nimble.html), San Jose, CA: _May 2014 to Aug 2014_
 
-- Bulleted
-- List
+- Performance Improvements - Spin RW Locks, Per-CPU reference counting
 
-1. Numbered
-2. List
+## Senior Software Engineer
+[Toshiba](http://www.toshiba-tsip.com/tsip/), Bengaluru, India: _Aug 2008 to Jul 2013_
 
-**Bold** and _Italic_ and `Code` text
+- Android Tablet - PlayReady DRM Movie Player (Backend), OpenGL ES 2.0 Shaders for rendering [TruNote&trade;](https://www.youtube.com/watch?v=kJFNmfYMTzA) stylus inputs
+- C Compilers for Toshiba Microcontrollers - Bug fixes, Optimizations
 
-[Link](url) and ![Image](src)
-```
+# Education
+- Master of Science in [Computer Science](https://www.cs.stonybrook.edu/), [Stony Brook University](https://www.stonybrook.edu/), _Aug 2013 to May 2015_
+- Bachelor of Technology in [Electrical and Electronics Engineering](http://www.ee.cet.ac.in/), [College of Engineering, Trivandrum](http://www.cet.ac.in/) under the [University of Kerala](http://www.keralauniversity.ac.in/), _Sep 2004 to Jun 2008_
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Publications and Patents
+- Patent Granted: [Scalable leadership election in a multi-processing computing environmenti](https://patents.google.com/patent/US11218418B2/en), _Jan 2022_.
+- Patent Granted: [Systems and methods for implementing address translation services](https://patents.google.com/patent/US11171913B2/en), _Nov 2021_.
+- MS Thesis: [Finding the Right Balance: Security vs. Performance with Network Storage Systems](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf), _2015_.
+- [SeMiNAS: A secure middleware for wide-area network-attached storage](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf), _2016_.
+- [Linux NFSv4.1 Performance Under a Microscope](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf), _2014_.
 
-### Jekyll Themes
+# Open Source Contributions
+- [envoy](https://www.envoyproxy.io/): [Support for x-forwarded-host header](https://github.com/envoyproxy/envoy/pull/18639), _Nov 2021_
+- [libjwt](http://benmcollins.github.io/libjwt/): [Fix test build error when 'libcheck' version < 0.9.10](https://github.com/benmcollins/libjwt/pull/135), _Aug 2020_
+- [cpplint](https://google.github.io/styleguide/): [Fix typo in README](https://github.com/cpplint/cpplint/pull/109), _Oct 2019_
+- [gRPC](https://grpc.io/): [Fix cmake build for gRPC_BUILD_CODEGEN=OFF](https://github.com/grpc/grpc/pull/17982), _Mar 2019_
+- [Protocol Buffers](https://developers.google.com/protocol-buffers): [Add overrides in C++ code](https://github.com/protocolbuffers/protobuf/pull/5375), _Nov 2018_
+- [Protocol Buffers](https://developers.google.com/protocol-buffers): [pyext needs c++11 in linux and mac](https://github.com/protocolbuffers/protobuf/pull/4930), _Jul 2018_
+- [NFS-Ganesha](https://nfs-ganesha.github.io/): Support stacking multiple FSALs, _Oct 2014_
+  - [Name of stackable FSAL NULL updated from NULLFS to NULL](https://github.com/nfs-ganesha/nfs-ganesha/commit/0a049d5949886a05244698aa8628203e3065f2c0)
+  - [Add utility function to load and initialize FSAL module](https://github.com/nfs-ganesha/nfs-ganesha/commit/23075a5857a784e8db5eafb8eea4f5252c3e182c)
+  - [Support stacking multiple FSALs](https://github.com/nfs-ganesha/nfs-ganesha/commit/216b9a2f2ff4b2d5657a8781699a768f691e0416)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arunov/profile.arunov.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Honors and Awards
+- [Nutanix Hackathon 8.0](https://www.youtube.com/watch?v=cn6VzcnAMms): Multiple Awards for Multicloud Service Mesh, _Feb 2022_</li>
+  - Best of category 'Security in the Hybrid Multicloud World'
+  - Best of competition 'Most Creative'
+- [Nutanix](https://www.nutanix.com/): Superhero Award, _Feb 2018_
+- [Nutanix Hackathon](https://www.youtube.com/watch?v=cn6VzcnAMms): Best of Seattle Award for Synchronous Replication of VMs on Acropolis Hypervisor (with automatic failover and failback), _Oct 2018_
+- [Facebook Summer of Hack - New York City](https://www.facebook.com/events/149609545248155/): 3rd place for the [HipHop](https://github.com/arunov/hiphop) Android App, _Oct 2013_
+- [Most Rev Dr Joseph Mar Iraneous Trophy](http://stthomascentralschool.edu.in/about.aspx): Best student in Computer Science, _2004_
 
-### Support or Contact
+# Music
+- [Pambayaarin Ponpulinathil](https://youtu.be/9mvjJXvCsAQ) (Devotional Ayyappa song), _Jan 2021_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact Information
+- arunov1986 [at] gmail [dot] com
