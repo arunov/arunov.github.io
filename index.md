@@ -11,6 +11,9 @@
 ## Research Assistant
 [File systems and Storage Lab (FSL)](http://www.fsl.cs.stonybrook.edu/), Stony Brook University, NY: _Sep 2013 to May 2015_
 
+- [Finding the Right Balance: Security vs. Performance with Network Storage Systems](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf), _2015_.
+- [SeMiNAS: A secure middleware for wide-area network-attached storage](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf), _2016_.
+- [Linux NFSv4.1 Performance Under a Microscope](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf), _2014_.
 
 ## Intern
 [Nimble Storage](https://www.hpe.com/us/en/storage/nimble.html), San Jose, CA: _May 2014 to Aug 2014_
@@ -27,12 +30,21 @@
 - Master of Science in [Computer Science](https://www.cs.stonybrook.edu/), [Stony Brook University](https://www.stonybrook.edu/), _Aug 2013 to May 2015_
 - Bachelor of Technology in [Electrical and Electronics Engineering](http://www.ee.cet.ac.in/), [College of Engineering, Trivandrum](http://www.cet.ac.in/) under the [University of Kerala](http://www.keralauniversity.ac.in/), _Sep 2004 to Jun 2008_
 
-# Publications and Patents
-- Patent Granted: [Scalable leadership election in a multi-processing computing environmenti](https://patents.google.com/patent/US11218418B2/en), _Jan 2022_.
-- Patent Granted: [Systems and methods for implementing address translation services](https://patents.google.com/patent/US11171913B2/en), _Nov 2021_.
-- MS Thesis: [Finding the Right Balance: Security vs. Performance with Network Storage Systems](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf), _2015_.
-- [SeMiNAS: A secure middleware for wide-area network-attached storage](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf), _2016_.
-- [Linux NFSv4.1 Performance Under a Microscope](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf), _2014_.
+# Publications
+
+## Patents
+- {% reference gupta2022scalable %}
+  [\[link\]](https://patents.google.com/patent/US11218418B2/en)
+- {% reference beedu2021systems %}
+  [\[link\]](https://patents.google.com/patent/US11171913B2/en)
+
+## Papers
+- {% reference chen2016seminas %}
+  [\[pdf\]](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf)
+- {% reference olappamanna2015finding %}
+  [\[pdf\]](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf)
+- {% reference chen2014linux %}
+  [\[pdf\]](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf)
 
 # Open Source Contributions
 - [envoy](https://www.envoyproxy.io/): [Support for x-forwarded-host header](https://github.com/envoyproxy/envoy/pull/18639), _Nov 2021_
