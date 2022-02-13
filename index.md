@@ -34,9 +34,9 @@
 
 ## Patents
 <!-- TODO: Figure out how to get bibtex working with Github Pages -->
-<!-- - {% reference gupta2022scalable %} -->
+<!-- - reference gupta2022scalable -->
 <!--   [\[link\]](https://patents.google.com/patent/US11218418B2/en) -->
-<!-- - {% reference beedu2020systems %} -->
+<!-- - reference beedu2020systems -->
 <!--   [\[link\]](https://patents.google.com/patent/US11171913B2/en) -->
 - Gupta, K., Konka, P. K., Ramachandran, P., Vasudevan, A. O., & Pyatkov, A. A. (2022). _Scalable leadership election in a multi-processing computing environment._
   [\[link\]](https://patents.google.com/patent/US11218418B2/en)
@@ -45,11 +45,11 @@
 
 ## Papers
 <!-- TODO: Figure out how to get bibtex working with Github Pages -->
-<!-- - {% reference chen2016seminas %} -->
+<!-- - reference chen2016seminas -->
 <!--   [\[pdf\]](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf) -->
-<!-- - {% reference olappamanna2015finding %} -->
+<!-- - reference olappamanna2015finding -->
 <!--   [\[pdf\]](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf) -->
-<!-- - {% reference chen2014linux %} -->
+<!-- - reference chen2014linux -->
 <!--   [\[pdf\]](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf) -->
 - Chen, M., Zadok, E., Vasudevan, A. O., & Wang, K. (2016). SeMiNAS: A secure middleware for wide-area network-attached storage. _Proceedings of the 9th ACM International on Systems and Storage Conference,_ 1–13.
   [\[pdf\]](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf)
