@@ -33,17 +33,29 @@
 # Publications
 
 ## Patents
-- {% reference gupta2022scalable %}
+<!-- TODO: Figure out how to get bibtex working with Github Pages -->
+<!-- - {% reference gupta2022scalable %} -->
+<!--   [\[link\]](https://patents.google.com/patent/US11218418B2/en) -->
+<!-- - {% reference beedu2020systems %} -->
+<!--   [\[link\]](https://patents.google.com/patent/US11171913B2/en) -->
+- Gupta, K., Konka, P. K., Ramachandran, P., Vasudevan, A. O., & Pyatkov, A. A. (2022). _Scalable leadership election in a multi-processing computing environment._
   [\[link\]](https://patents.google.com/patent/US11218418B2/en)
-- {% reference beedu2021systems %}
+- Beedu, B. K., Vasudevan, A. O., Ramamurthy, S., Ramachandran, P., Roychowdhury, S., & Sahukari, G. (2021). _Systems and methods for implementing address translation services._
   [\[link\]](https://patents.google.com/patent/US11171913B2/en)
 
 ## Papers
-- {% reference chen2016seminas %}
+<!-- TODO: Figure out how to get bibtex working with Github Pages -->
+<!-- - {% reference chen2016seminas %} -->
+<!--   [\[pdf\]](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf) -->
+<!-- - {% reference olappamanna2015finding %} -->
+<!--   [\[pdf\]](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf) -->
+<!-- - {% reference chen2014linux %} -->
+<!--   [\[pdf\]](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf) -->
+- Chen, M., Zadok, E., Vasudevan, A. O., & Wang, K. (2016). SeMiNAS: A secure middleware for wide-area network-attached storage. _Proceedings of the 9th ACM International on Systems and Storage Conference,_ 1–13.
   [\[pdf\]](https://www.fsl.cs.stonybrook.edu/docs/nfs4perf/seminas-systor16.pdf)
-- {% reference olappamanna2015finding %}
+- Olappamanna Vasudevan, A. (2015). _Finding the Right Balance: Security vs. Performance with Network Storage Systems_ [Master’s thesis]. The Graduate School, Stony Brook University: Stony Brook, NY.
   [\[pdf\]](https://www.fsl.cs.sunysb.edu/docs/arun-msthesis/arun-msthesis.pdf)
-- {% reference chen2014linux %}
+- Chen, M., Hildebrand, D., Kuenning, G., Shankaranarayana, S., Tarasov, V., Vasudevan, A. O., Zadok, E., & Zakirova, K. (2014). Linux NFSv4. 1 Performance Under a Microscope. _LISA,_ 137–138.
   [\[pdf\]](https://www.filesystems.org/docs/nfs4perf/nfs4perf-microscope.pdf)
 
 # Open Source Contributions
