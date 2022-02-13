@@ -4,3 +4,4 @@ description: Senior Member of Technical Staff, Nutanix
 show_downloads: false
 github:
   is_project_page: false
+  add_github_pages_footer: false
