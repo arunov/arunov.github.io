@@ -9,20 +9,20 @@ github:
   add_github_pages_footer: false
 plugins:
   - jekyll-feed
-  - jekyll-spaceship
-  - jekyll/scholar
+#  - jekyll-spaceship
+#  - jekyll/scholar
 
 # Settings for plugins
-jekyll-spaceship:
-  mermaid-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
-    css:
-      class: mermaid
-    syntax:
-      code: 'mermaid'
-    config:
-      theme: default
-    src: https://mermaid.ink/svg/
-
-scholar:
-  bibliography_template: bib
+# jekyll-spaceship:
+#   mermaid-processor:
+#     mode: default  # mode value 'pre-fetch' for fetching image at building stage
+#     css:
+#       class: mermaid
+#     syntax:
+#       code: 'mermaid'
+#     config:
+#       theme: default
+#     src: https://mermaid.ink/svg/
+#
+# scholar:
+#   bibliography_template: bib

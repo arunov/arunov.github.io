@@ -22,10 +22,10 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Mermaid diagrams and more in Jekyll
-gem 'jekyll-spaceship'
+# gem 'jekyll-spaceship'
 
 # Jekyll-scholar
-gem 'jekyll-scholar', group: :jekyll_plugins
+# gem 'jekyll-scholar', group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
