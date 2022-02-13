@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/arunov/) | [GitHub](https://www.github.com/arunov/)
+[LinkedIn](https://www.linkedin.com/in/arunov/) | [GitHub](https://www.github.com/arunov/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=S0O40kUAAAAJ)
 
 # Work Experience
 ## Senior Member of Technical Staff
