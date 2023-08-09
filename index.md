@@ -1,7 +1,7 @@
-[LinkedIn](https://www.linkedin.com/in/arunov/) | [GitHub](https://www.github.com/arunov/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=S0O40kUAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/arunov/) | [GitHub](https://www.github.com/arunov/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=S0O40kUAAAAJ) | [Twitter](https://twitter.com/arun_ov)
 
 # Work Experience
-## Senior Member of Technical Staff
+## Staff Engineer
 [Nutanix](https://www.nutanix.com/), Seattle, WA: _Jul 2015 to Present_
 
 - API Gateway, Load Balancer, and Scalability
@@ -83,4 +83,4 @@
 - [Pambayaarin Ponpulinathil](https://youtu.be/9mvjJXvCsAQ) (Devotional Ayyappa song), _Jan 2021_
 
 # Contact Information
-- arunov1986 [at] gmail [dot] com
+- arunov [dot] music [at] gmail [dot] com
