@@ -71,6 +71,7 @@
   - [Support stacking multiple FSALs](https://github.com/nfs-ganesha/nfs-ganesha/commit/216b9a2f2ff4b2d5657a8781699a768f691e0416)
 
 # Honors and Awards
+- Featured in Marquis Who's Who, _Jul 2024_ <img decoding="async" src="https://badges.marquiswhoswho.com/Badge/topdoctor/0da341b0b5694708aa13b761249df659c459b27d0f2943ddb66be5ed9c7bdca3" alt="Marquis Badge" width="50px" height="50px">
 - [Nutanix Hackathon 8.0](https://www.youtube.com/watch?v=cn6VzcnAMms): Multiple Awards for Multicloud Service Mesh, _Feb 2022_
   - Best of category 'Security in the Hybrid Multicloud World'
   - Best of competition 'Most Creative'
